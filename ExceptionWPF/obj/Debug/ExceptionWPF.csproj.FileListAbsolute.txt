@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\bin\Debug\ExceptionWPF.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\bin\Debug\ExceptionWPF.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\bin\Debug\ExceptionWPF.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\App.g.cs
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF_MarkupCompile.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF_MarkupCompile.lref
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\MainWindow.baml
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF.g.resources
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF.Properties.Resources.resources
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ExceptionWPF\ExceptionWPF\obj\Debug\ExceptionWPF.pdb
